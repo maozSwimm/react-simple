@@ -5,8 +5,7 @@ file_version: 1.0.2
 app_version: 0.9.9-5
 ---
 
-a path - `📄 src/setupTests.js`
-
+a path - `📄 .gitignore`
 
 
 
