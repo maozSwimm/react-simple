@@ -2,13 +2,16 @@
 id: 9m79h
 name: path
 file_version: 1.0.2
-app_version: 0.9.9-5
+app_version: 0.9.9-6
 ---
 
 a path - `📄 .gitignore`
 
 
 
+
+
+`📄 src/App.js`
 
 <br/>
 
